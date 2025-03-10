@@ -1,7 +1,6 @@
-import sys
-import random
-
 import math
+import random
+import sys
 
 
 def greet(name):
